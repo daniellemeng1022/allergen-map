@@ -1,5 +1,5 @@
 {
-  "version": 2026100502,
+  "version": 2026100503,
   "updated": "2026-10-05",
   "note": "Seed map drafted by an AI agent (Claude) on 2026-10-05. Covers FDA Big 9, EU 14 food allergens, Japan's buckwheat, latex, common cosmetic allergens and the T.R.U.E. Test patch series. Needs founder review before it is relied on. Grow it with tools/build_map.py.",
   "allergens": {
@@ -165,6 +165,130 @@
         {
           "t": "우유",
           "why": "Korean for milk"
+        },
+        {
+          "t": "milk fat",
+          "why": "the lipid component of milk"
+        },
+        {
+          "t": "milk powder",
+          "why": "dehydrated whole or skim milk"
+        },
+        {
+          "t": "skimmed milk powder",
+          "why": "dried milk with fat removed"
+        },
+        {
+          "t": "whole milk powder",
+          "why": "dried milk retaining all fats"
+        },
+        {
+          "t": "condensed milk",
+          "why": "sweetened evaporated cow's milk"
+        },
+        {
+          "t": "evaporated milk",
+          "why": "concentrated unsweetened cow's milk"
+        },
+        {
+          "t": "dry milk",
+          "why": "a common label for powdered milk"
+        },
+        {
+          "t": "nonfat dry milk",
+          "why": "skim milk in powder form"
+        },
+        {
+          "t": "lactose monohydrate",
+          "why": "a specific chemical form of milk sugar"
+        },
+        {
+          "t": "hydrolyzed whey protein",
+          "why": "broken down milk protein isolate"
+        },
+        {
+          "t": "whey protein concentrate",
+          "why": "a processed milk byproduct"
+        },
+        {
+          "t": "whey protein isolate",
+          "why": "purified milk protein powder"
+        },
+        {
+          "t": "sodium caseinate",
+          "why": "a salt derived from milk casein"
+        },
+        {
+          "t": "calcium caseinate",
+          "why": "a calcium salt of milk protein"
+        },
+        {
+          "t": "potassium caseinate",
+          "why": "a potassium salt of milk protein"
+        },
+        {
+          "t": "ammonium caseinate",
+          "why": "an ammonium salt of milk protein"
+        },
+        {
+          "t": "milk solids non-fat",
+          "why": "refers to protein and lactose in milk"
+        },
+        {
+          "t": "milk solids total",
+          "why": "includes both fat and non-fat components"
+        },
+        {
+          "t": "clotted cream",
+          "why": "heated and cooled rich milk cream"
+        },
+        {
+          "t": "crème fraîche",
+          "why": "cultured heavy cream product"
+        },
+        {
+          "t": "sour milk",
+          "why": "fermented liquid dairy product"
+        },
+        {
+          "t": "buttermilk powder",
+          "why": "dried residue from butter churning"
+        },
+        {
+          "t": "milk permeate",
+          "why": "liquid left after removing proteins/fats"
+        },
+        {
+          "t": "lactoperoxidase",
+          "why": "an enzyme found in raw milk"
+        },
+        {
+          "t": "beta-lactoglobulin",
+          "why": "a major whey protein in milk"
+        },
+        {
+          "t": "alpha-lactalbumin",
+          "why": "a key whey protein in milk"
+        },
+        {
+          "t": "colostrum",
+          "why": "the first milk produced after birth"
+        },
+        {
+          "t": "bovine serum albumin",
+          "why": "a specific milk-derived protein"
+        },
+        {
+          "t": "milk extract",
+          "why": "a general term for milk derivatives"
+        },
+        {
+          "t": "dairy ingredients",
+          "why": "indicates presence of milk components"
+        },
+        {
+          "t": "contains milk",
+          "why": "a standard allergen advisory statement"
         }
       ],
       "exclude": [
