@@ -1,6 +1,6 @@
 {
-  "version": 2026100503,
-  "updated": "2026-10-05",
+  "version": 2026101901,
+  "updated": "2026-10-19",
   "note": "Seed map drafted by an AI agent (Claude) on 2026-10-05. Covers FDA Big 9, EU 14 food allergens, Japan's buckwheat, latex, common cosmetic allergens and the T.R.U.E. Test patch series. Needs founder review before it is relied on. Grow it with tools/build_map.py.",
   "allergens": {
     "milk": {
@@ -422,6 +422,66 @@
         {
           "t": "계란",
           "why": "Korean for egg"
+        },
+        {
+          "t": "angel food cake",
+          "why": "uses only egg whites, no yolks"
+        },
+        {
+          "t": "bearnaise",
+          "why": "a sauce made with egg yolks"
+        },
+        {
+          "t": "caesar dressing",
+          "why": "traditionally uses raw egg or yolk"
+        },
+        {
+          "t": "carbonara",
+          "why": "traditional recipe uses egg yolks"
+        },
+        {
+          "t": "conalbumin",
+          "why": "another name for ovotransferrin"
+        },
+        {
+          "t": "crème brûlée",
+          "why": "a custard topped with caramelized sugar"
+        },
+        {
+          "t": "macarons",
+          "why": "almond cookies made with egg whites"
+        },
+        {
+          "t": "ovoflavoprotein",
+          "why": "a riboflavin-binding protein in eggs"
+        },
+        {
+          "t": "panettone",
+          "why": "often contains eggs in dough"
+        },
+        {
+          "t": "pavlova",
+          "why": "a meringue-based dessert with eggs"
+        },
+        {
+          "t": "phosvitin",
+          "why": "a phosphoprotein found in egg yolk"
+        },
+        {
+          "t": "sabayon",
+          "why": "the French name for zabaglione"
+        },
+        {
+          "t": "soufflé",
+          "why": "relies on whipped egg whites for rise"
+        },
+        {
+          "t": "tiramisu",
+          "why": "often contains raw or cooked eggs"
+        },
+        {
+          "t": "zabaglione",
+          "why": "a custard made with egg yolks"
         }
       ],
       "exclude": [
@@ -647,6 +707,10 @@
         {
           "t": "견과류",
           "why": "Korean for nuts"
+        },
+        {
+          "t": "canarium ovatum",
+          "why": "botanical name for pili"
         }
       ],
       "exclude": [
@@ -771,6 +835,34 @@
         {
           "t": "밀가루",
           "why": "Korean for wheat flour"
+        },
+        {
+          "t": "Bechamel sauce",
+          "why": "uses wheat flour as the roux thickener"
+        },
+        {
+          "t": "Bread crumbs",
+          "why": "typically made from dried wheat bread"
+        },
+        {
+          "t": "Cracker meal",
+          "why": "crushed wheat crackers used as coating"
+        },
+        {
+          "t": "Enriched flour",
+          "why": "usually refers to refined white wheat flour"
+        },
+        {
+          "t": "Frumento",
+          "why": "Italian for wheat grain or flour"
+        },
+        {
+          "t": "Soy sauce",
+          "why": "traditionally brewed with significant wheat content"
+        },
+        {
+          "t": "Weizenmehl",
+          "why": "German for wheat flour"
         }
       ],
       "exclude": [
@@ -855,6 +947,66 @@
         {
           "t": "seitan",
           "why": "pure wheat gluten"
+        },
+        {
+          "t": "All-Purpose Flour",
+          "why": "standard medium-protein wheat flour"
+        },
+        {
+          "t": "Bechamel Sauce",
+          "why": "a white sauce made with wheat flour"
+        },
+        {
+          "t": "Bread Flour",
+          "why": "high-protein hard wheat flour"
+        },
+        {
+          "t": "Breadcrumbs",
+          "why": "made from dried wheat bread"
+        },
+        {
+          "t": "Cake Flour",
+          "why": "finely milled soft wheat flour"
+        },
+        {
+          "t": "Cracker Meal",
+          "why": "ground wheat crackers used as filler"
+        },
+        {
+          "t": "Enriched Flour",
+          "why": "typically refined wheat flour"
+        },
+        {
+          "t": "Graham Flour",
+          "why": "whole grain wheat flour"
+        },
+        {
+          "t": "Hoisin Sauce",
+          "why": "usually includes fermented wheat paste"
+        },
+        {
+          "t": "Hordeum distichon",
+          "why": "a specific species of barley"
+        },
+        {
+          "t": "Panko",
+          "why": "Japanese-style wheat breadcrumbs"
+        },
+        {
+          "t": "Pastry Flour",
+          "why": "low-protein wheat flour"
+        },
+        {
+          "t": "Self-Rising Flour",
+          "why": "wheat flour with added leavening agents"
+        },
+        {
+          "t": "Soy Sauce",
+          "why": "traditionally brewed with wheat grains"
+        },
+        {
+          "t": "Teriyaki Sauce",
+          "why": "typically contains soy sauce and wheat"
         }
       ],
       "exclude": [
@@ -1092,6 +1244,38 @@
         {
           "t": "생선",
           "why": "Korean for fish"
+        },
+        {
+          "t": "anchoveta",
+          "why": "South American anchovy species"
+        },
+        {
+          "t": "colatura di alici",
+          "why": "Italian anchovy extract liquid"
+        },
+        {
+          "t": "fumet de poisson",
+          "why": "French term for fish stock"
+        },
+        {
+          "t": "nam pla",
+          "why": "Thai word for fish sauce"
+        },
+        {
+          "t": "nuoc mam",
+          "why": "Vietnamese word for fish sauce"
+        },
+        {
+          "t": "pilchards",
+          "why": "large sardines or small herrings"
+        },
+        {
+          "t": "sprats",
+          "why": "small oily fish related to herring"
+        },
+        {
+          "t": "whitebait",
+          "why": "young immature fish mixture"
         }
       ],
       "exclude": [
@@ -1211,6 +1395,50 @@
         {
           "t": "해산물",
           "why": "Korean for seafood"
+        },
+        {
+          "t": "bagoong",
+          "why": "Filipino shrimp paste"
+        },
+        {
+          "t": "belachan",
+          "why": "Malaysian shrimp paste"
+        },
+        {
+          "t": "bisque base",
+          "why": "thickened shellfish soup starter"
+        },
+        {
+          "t": "crustacean",
+          "why": "the biological class for shellfish"
+        },
+        {
+          "t": "crustacean protein",
+          "why": "allergenic protein source"
+        },
+        {
+          "t": "cuttlefish",
+          "why": "a type of cephalopod mollusc"
+        },
+        {
+          "t": "mollusc",
+          "why": "the biological class for shellfish"
+        },
+        {
+          "t": "periwinkle",
+          "why": "a small edible snail"
+        },
+        {
+          "t": "seafood stock",
+          "why": "broth made from shellfish bones"
+        },
+        {
+          "t": "terasi",
+          "why": "Indonesian shrimp paste"
+        },
+        {
+          "t": "tropomyosin",
+          "why": "major shellfish allergen protein"
         }
       ],
       "exclude": [],
@@ -1291,6 +1519,38 @@
         {
           "t": "참깨",
           "why": "Korean for sesame"
+        },
+        {
+          "t": "ajonjoli",
+          "why": "Spanish name for sesame seed"
+        },
+        {
+          "t": "chamkkai",
+          "why": "Korean romanization of sesame"
+        },
+        {
+          "t": "kunjut",
+          "why": "Russian transliteration of sesame"
+        },
+        {
+          "t": "sesamin",
+          "why": "a lignan found in sesame seeds"
+        },
+        {
+          "t": "sesamol",
+          "why": "a chemical compound derived from sesame oil"
+        },
+        {
+          "t": "sesamolin",
+          "why": "a lignan found in sesame seeds"
+        },
+        {
+          "t": "sim-sim",
+          "why": "Spanish/Caribbean name for sesame seed"
+        },
+        {
+          "t": "zhima",
+          "why": "Chinese pinyin for sesame"
         }
       ],
       "exclude": [],
@@ -1317,6 +1577,10 @@
         {
           "t": "dijon",
           "why": "a mustard"
+        },
+        {
+          "t": "Colman's",
+          "why": "a brand of English mustard"
         }
       ],
       "exclude": [],
@@ -1403,6 +1667,42 @@
         {
           "t": "메밀",
           "why": "Korean for buckwheat"
+        },
+        {
+          "t": "Buchweizenmehl",
+          "why": "German buckwheat flour"
+        },
+        {
+          "t": "Fagopyrin",
+          "why": "pigment in buckwheat"
+        },
+        {
+          "t": "Grechka",
+          "why": "Russian transliteration of buckwheat"
+        },
+        {
+          "t": "Ku Qiao Cha",
+          "why": "Chinese buckwheat tea"
+        },
+        {
+          "t": "Makguksu",
+          "why": "Korean buckwheat noodle"
+        },
+        {
+          "t": "Memil-guk",
+          "why": "Korean buckwheat soup"
+        },
+        {
+          "t": "Memil-jeon",
+          "why": "Korean buckwheat pancake"
+        },
+        {
+          "t": "Ployes",
+          "why": "French buckwheat crepes"
+        },
+        {
+          "t": "Sobacha",
+          "why": "Japanese buckwheat tea"
         }
       ],
       "exclude": [],
@@ -1484,6 +1784,30 @@
         {
           "t": "e228",
           "why": "additive code for a sulfite"
+        },
+        {
+          "t": "bisulfite",
+          "why": "short name for hydrogen sulfite"
+        },
+        {
+          "t": "calcium bisulfite",
+          "why": "calcium acidic sulfite"
+        },
+        {
+          "t": "disulfite",
+          "why": "chemical synonym for metabisulfite"
+        },
+        {
+          "t": "magnesium bisulfite",
+          "why": "magnesium acidic sulfite"
+        },
+        {
+          "t": "metabisulfite",
+          "why": "short name for disulfite"
+        },
+        {
+          "t": "sulfurous acid",
+          "why": "aqueous form of SO2"
         }
       ],
       "exclude": [],
@@ -1601,6 +1925,94 @@
         {
           "t": "balsam of peru",
           "why": "a fragrance allergen"
+        },
+        {
+          "t": "alpha-pinene",
+          "why": "a pine-like terpene"
+        },
+        {
+          "t": "anisyl alcohol",
+          "why": "a sweet aromatic compound"
+        },
+        {
+          "t": "beta-pinene",
+          "why": "a woody terpene"
+        },
+        {
+          "t": "cananga odorata",
+          "why": "ylang ylang INCI name"
+        },
+        {
+          "t": "cedarwood",
+          "why": "a woody essential oil"
+        },
+        {
+          "t": "cedrus atlantica",
+          "why": "cedarwood INCI name"
+        },
+        {
+          "t": "chrysopogon zizanioides",
+          "why": "vetiver INCI name"
+        },
+        {
+          "t": "cinnamyl acetate",
+          "why": "a cinnamon-like ester"
+        },
+        {
+          "t": "citronellyl acetate",
+          "why": "a lemon-rose ester"
+        },
+        {
+          "t": "eucalyptol",
+          "why": "a eucalyptus aroma"
+        },
+        {
+          "t": "geranyl acetate",
+          "why": "a rose-like ester"
+        },
+        {
+          "t": "jasminum grandiflorum",
+          "why": "jasmine INCI name"
+        },
+        {
+          "t": "lavandula angustifolia",
+          "why": "lavender INCI name"
+        },
+        {
+          "t": "linalyl acetate",
+          "why": "a lavender-like ester"
+        },
+        {
+          "t": "neroli",
+          "why": "orange blossom oil"
+        },
+        {
+          "t": "patchouli",
+          "why": "an earthy essential oil"
+        },
+        {
+          "t": "pogostemon cablin",
+          "why": "patchouli INCI name"
+        },
+        {
+          "t": "rosa damascena",
+          "why": "rose INCI name"
+        },
+        {
+          "t": "sandalwood",
+          "why": "a woody essential oil"
+        },
+        {
+          "t": "santalum album",
+          "why": "sandalwood INCI name"
+        },
+        {
+          "t": "terpineol",
+          "why": "a lilac-like terpene"
+        },
+        {
+          "t": "ylang ylang",
+          "why": "a floral essential oil"
         }
       ],
       "exclude": [],
@@ -1639,6 +2051,18 @@
         {
           "t": "kathon",
           "why": "brand name for MCI/MI preservative"
+        },
+        {
+          "t": "2-methyl-4-isothiazolin-3-one",
+          "why": "full chemical name for MI"
+        },
+        {
+          "t": "Acticide M10",
+          "why": "commercial brand of MI/MCI mix"
+        },
+        {
+          "t": "Nipacide CI",
+          "why": "brand name for chloroisothiazolinone"
         }
       ],
       "exclude": [],
@@ -1696,6 +2120,18 @@
         {
           "t": "polyoxymethylene urea",
           "why": "releases formaldehyde"
+        },
+        {
+          "t": "dimethyloldihydroxyethyleneurea",
+          "why": "resin releasing formaldehyde"
+        },
+        {
+          "t": "hydroxymethylated methyl melamine resin",
+          "why": "resin releasing formaldehyde"
+        },
+        {
+          "t": "N-methylolacrylamide",
+          "why": "monomer releasing formaldehyde"
         }
       ],
       "exclude": [],
@@ -1736,6 +2172,94 @@
         {
           "t": "benzylparaben",
           "why": "a paraben preservative"
+        },
+        {
+          "t": "4-hydroxybenzoic acid benzyl ester",
+          "why": "the systematic IUPAC name for benzylparaben"
+        },
+        {
+          "t": "4-hydroxybenzoic acid butyl ester",
+          "why": "the systematic IUPAC name for butylparaben"
+        },
+        {
+          "t": "4-hydroxybenzoic acid ethyl ester",
+          "why": "the systematic IUPAC name for ethylparaben"
+        },
+        {
+          "t": "4-hydroxybenzoic acid methyl ester",
+          "why": "the systematic IUPAC name for methylparaben"
+        },
+        {
+          "t": "4-hydroxybenzoic acid propyl ester",
+          "why": "the systematic IUPAC name for propylparaben"
+        },
+        {
+          "t": "benzyl 4-hydroxybenzoate",
+          "why": "the chemical name for benzylparaben"
+        },
+        {
+          "t": "benzyl p-hydroxybenzoate",
+          "why": "a common shorthand for benzylparaben"
+        },
+        {
+          "t": "benzyl parahydroxybenzoate",
+          "why": "an alternative name for benzylparaben"
+        },
+        {
+          "t": "butyl 4-hydroxybenzoate",
+          "why": "the chemical name for butylparaben"
+        },
+        {
+          "t": "butyl p-hydroxybenzoate",
+          "why": "a common shorthand for butylparaben"
+        },
+        {
+          "t": "butyl parahydroxybenzoate",
+          "why": "an alternative name for butylparaben"
+        },
+        {
+          "t": "ethyl 4-hydroxybenzoate",
+          "why": "the chemical name for ethylparaben"
+        },
+        {
+          "t": "ethyl p-hydroxybenzoate",
+          "why": "a common shorthand for ethylparaben"
+        },
+        {
+          "t": "ethyl parahydroxybenzoate",
+          "why": "an alternative name for ethylparaben"
+        },
+        {
+          "t": "methyl 4-hydroxybenzoate",
+          "why": "the chemical name for methylparaben"
+        },
+        {
+          "t": "methyl p-hydroxybenzoate",
+          "why": "a common shorthand for methylparaben"
+        },
+        {
+          "t": "methyl parahydroxybenzoate",
+          "why": "an alternative name for methylparaben"
+        },
+        {
+          "t": "nipagin m",
+          "why": "a trade name for methylparaben"
+        },
+        {
+          "t": "nipasol m",
+          "why": "a trade name for sodium methylparaben"
+        },
+        {
+          "t": "propyl 4-hydroxybenzoate",
+          "why": "the chemical name for propylparaben"
+        },
+        {
+          "t": "propyl p-hydroxybenzoate",
+          "why": "a common shorthand for propylparaben"
+        },
+        {
+          "t": "propyl parahydroxybenzoate",
+          "why": "an alternative name for propylparaben"
         }
       ],
       "exclude": [],
@@ -1765,6 +2289,34 @@
         {
           "t": "toluene-2,5-diamine",
           "why": "a related hair-dye chemical"
+        },
+        {
+          "t": "1,4-Benzenediamine",
+          "why": "the IUPAC systematic name for PPD"
+        },
+        {
+          "t": "2,5-Diaminotoluene",
+          "why": "a related aromatic amine in hair dyes"
+        },
+        {
+          "t": "Benzene-1,4-diamine",
+          "why": "an alternative IUPAC name for PPD"
+        },
+        {
+          "t": "Black Henna",
+          "why": "usually indicates PPD contamination"
+        },
+        {
+          "t": "Henna (with additives)",
+          "why": "black henna often illegally adds PPD"
+        },
+        {
+          "t": "p-Aminophenol",
+          "why": "a specific aminophenol dye precursor"
+        },
+        {
+          "t": "Temporary Tattoo Ink (Black)",
+          "why": "sometimes contains PPD for darkening"
         }
       ],
       "exclude": [],
@@ -1798,6 +2350,30 @@
         {
           "t": "laneth",
           "why": "made from lanolin"
+        },
+        {
+          "t": "Fatty Acids, C16-C18, Wool",
+          "why": "describes lanolin-derived fatty acids"
+        },
+        {
+          "t": "Glazing Agent (E913)",
+          "why": "refers to lanolin coating on fruits/candy"
+        },
+        {
+          "t": "Isopropyl Lanolate",
+          "why": "an ester of isopropyl alcohol and lanolic acid"
+        },
+        {
+          "t": "Lanolic Acid",
+          "why": "a fatty acid component of lanolin"
+        },
+        {
+          "t": "Superfatting Agent (Wool)",
+          "why": "indicates lanolin use in soap making"
+        },
+        {
+          "t": "Wool grease",
+          "why": "raw lanolin before purification"
         }
       ],
       "exclude": [],
@@ -1821,6 +2397,18 @@
         {
           "t": "amidoamine",
           "why": "a related impurity that causes reactions"
+        },
+        {
+          "t": "Cocamidopropyl Dimethyl Glycine",
+          "why": "a chemically similar amphoteric surfactant"
+        },
+        {
+          "t": "Coco-Betaine",
+          "why": "a shortened trade name variant"
+        },
+        {
+          "t": "Lauramidopropyl Betaine",
+          "why": "a structurally similar lauric acid derivative"
         }
       ],
       "exclude": [],
@@ -1839,6 +2427,10 @@
         {
           "t": "e1520",
           "why": "additive code for propylene glycol"
+        },
+        {
+          "t": "propane-1,2-diol",
+          "why": "the IUPAC chemical name for it"
         }
       ],
       "exclude": [],
@@ -1863,6 +2455,86 @@
         {
           "t": "glyceryl rosinate",
           "why": "made from rosin"
+        },
+        {
+          "t": "Abietates",
+          "why": "salts of abietic acid from rosin"
+        },
+        {
+          "t": "Abietinol",
+          "why": "alcohol derived from abietic acid"
+        },
+        {
+          "t": "Calcium Abietate",
+          "why": "drying agent from rosin salts"
+        },
+        {
+          "t": "Dehydroabietic Acid",
+          "why": "oxidized component of rosin"
+        },
+        {
+          "t": "Diethylene Glycol Rosinate",
+          "why": "plasticizer made from rosin"
+        },
+        {
+          "t": "Ethyl Abietate",
+          "why": "ester derivative of rosin acid"
+        },
+        {
+          "t": "Isopimaric Acid",
+          "why": "component of rosin acid mixture"
+        },
+        {
+          "t": "Levopimaric Acid",
+          "why": "stereoisomer in rosin composition"
+        },
+        {
+          "t": "Methyl Abietate",
+          "why": "ester derivative of rosin acid"
+        },
+        {
+          "t": "Neoabietic Acid",
+          "why": "isomer found in rosin mixtures"
+        },
+        {
+          "t": "Palustric Acid",
+          "why": "minor component of rosin acids"
+        },
+        {
+          "t": "Pimaric Acid",
+          "why": "constituent of natural rosin"
+        },
+        {
+          "t": "Pine Resin",
+          "why": "raw material source of colophony"
+        },
+        {
+          "t": "Pinus Merkusii Resin",
+          "why": "botanical source of Asian rosin"
+        },
+        {
+          "t": "Pinus Sylvestris Resin",
+          "why": "botanical source of common rosin"
+        },
+        {
+          "t": "Polyglyceryl Rosinate",
+          "why": "emulsifier derived from rosin"
+        },
+        {
+          "t": "Resin Acid",
+          "why": "general term for rosin components"
+        },
+        {
+          "t": "Sodium Abietate",
+          "why": "soap-like salt of rosin acid"
+        },
+        {
+          "t": "Triethylene Glycol Rosinate",
+          "why": "plasticizer made from rosin"
+        },
+        {
+          "t": "Zinc Abietate",
+          "why": "fungicide derived from rosin"
         }
       ],
       "exclude": [],
@@ -1887,6 +2559,30 @@
         {
           "t": "sulisobenzone",
           "why": "a related sunscreen chemical"
+        },
+        {
+          "t": "2'-Hydroxy-4-methoxybenzophenone",
+          "why": "uses prime notation for ortho position"
+        },
+        {
+          "t": "2-hydroxy-4-methoxybenzophenone",
+          "why": "the chemical name for oxybenzone"
+        },
+        {
+          "t": "4-Methoxy-2-hydroxybenzophenone",
+          "why": "reverses substituent listing order"
+        },
+        {
+          "t": "Chimassorb 90",
+          "why": "a trade name for oxybenzone"
+        },
+        {
+          "t": "Escalol 567",
+          "why": "a trade name for oxybenzone"
+        },
+        {
+          "t": "Oxybenzonum",
+          "why": "the Latin pharmaceutical name"
         }
       ],
       "exclude": [],
@@ -1943,6 +2639,42 @@
         {
           "t": "chitosan",
           "why": "made from shellfish shells"
+        },
+        {
+          "t": "Belacan",
+          "why": "Fermented shrimp paste"
+        },
+        {
+          "t": "Cancer pagurus",
+          "why": "Scientific name for edible crab"
+        },
+        {
+          "t": "Crustacea",
+          "why": "Subphylum of arthropods"
+        },
+        {
+          "t": "Euphausia",
+          "why": "Genus name for krill"
+        },
+        {
+          "t": "Malacostraca",
+          "why": "Class containing most shellfish"
+        },
+        {
+          "t": "Penaeus",
+          "why": "Genus name for commercial shrimp"
+        },
+        {
+          "t": "Shellfish extract",
+          "why": "Concentrated flavor from crustaceans"
+        },
+        {
+          "t": "Surimi",
+          "why": "Paste made from white fish and crab"
+        },
+        {
+          "t": "Trassi",
+          "why": "Indonesian fermented shrimp paste"
         }
       ],
       "exclude": [],
@@ -1996,6 +2728,58 @@
         {
           "t": "escargot",
           "why": "snails, a mollusk"
+        },
+        {
+          "t": "cuttlefish",
+          "why": "cephalopod mollusk"
+        },
+        {
+          "t": "dentalium",
+          "why": "tusk shell genus"
+        },
+        {
+          "t": "helix aspersa",
+          "why": "garden snail species"
+        },
+        {
+          "t": "helix pomatia",
+          "why": "Roman snail species"
+        },
+        {
+          "t": "patella vulgata",
+          "why": "common limpet"
+        },
+        {
+          "t": "periwinkle",
+          "why": "small marine snail"
+        },
+        {
+          "t": "sea hare",
+          "why": "large marine snail"
+        },
+        {
+          "t": "sepia ink",
+          "why": "cuttlefish secretion"
+        },
+        {
+          "t": "shellfish extract",
+          "why": "implies mollusk content"
+        },
+        {
+          "t": "snail mucin",
+          "why": "cosmetic ingredient from snails"
+        },
+        {
+          "t": "snail secretion filtrate",
+          "why": "INCI name for snail slime"
+        },
+        {
+          "t": "strombus gigas",
+          "why": "queen conch"
+        },
+        {
+          "t": "tusk shell",
+          "why": "scaphopod mollusk"
         }
       ],
       "exclude": [],
@@ -2051,6 +2835,30 @@
         {
           "t": "セロリ",
           "why": "Japanese for celery"
+        },
+        {
+          "t": "Blattsellerie",
+          "why": "German for leaf celery"
+        },
+        {
+          "t": "Knollensellerie",
+          "why": "German for celeriac"
+        },
+        {
+          "t": "Sellerieextrakt",
+          "why": "German for celery extract"
+        },
+        {
+          "t": "Selleriesamen",
+          "why": "German for celery seed"
+        },
+        {
+          "t": "Sellerieöl",
+          "why": "German for celery oil"
+        },
+        {
+          "t": "Stangensellerie",
+          "why": "German for stalk celery"
         }
       ],
       "exclude": [],
@@ -2112,6 +2920,46 @@
         {
           "t": "hevea brasiliensis",
           "why": "the rubber tree, source of latex"
+        },
+        {
+          "t": "Block rubber",
+          "why": "Compressed natural rubber blocks"
+        },
+        {
+          "t": "Caoutchouc",
+          "why": "French term for natural rubber"
+        },
+        {
+          "t": "Crepe rubber",
+          "why": "Processed form of natural rubber"
+        },
+        {
+          "t": "Goma de Hevea",
+          "why": "Spanish term for Hevea gum"
+        },
+        {
+          "t": "Hevein",
+          "why": "Specific allergen protein in latex"
+        },
+        {
+          "t": "Pale crepe",
+          "why": "Light-colored processed natural rubber"
+        },
+        {
+          "t": "Para rubber",
+          "why": "Common name for natural rubber"
+        },
+        {
+          "t": "Para tree",
+          "why": "Botanical source of latex"
+        },
+        {
+          "t": "Smoked sheet",
+          "why": "Dried natural rubber sheets"
+        },
+        {
+          "t": "Vulcanized rubber",
+          "why": "Heat-treated natural rubber product"
         }
       ],
       "exclude": [
@@ -2144,6 +2992,42 @@
         {
           "t": "white gold",
           "why": "often alloyed with nickel"
+        },
+        {
+          "t": "Annabergite",
+          "why": "a green nickel arsenate"
+        },
+        {
+          "t": "Garnierite",
+          "why": "a nickel-rich silicate ore"
+        },
+        {
+          "t": "Hexaamminenickel(II)",
+          "why": "a coordination nickel complex"
+        },
+        {
+          "t": "Millerite",
+          "why": "a nickel sulfide mineral"
+        },
+        {
+          "t": "Nickelocene",
+          "why": "a stable nickel metallocene"
+        },
+        {
+          "t": "Pentlandite",
+          "why": "the main nickel ore mineral"
+        },
+        {
+          "t": "Rammelsbergite",
+          "why": "a nickel iron sulfide"
+        },
+        {
+          "t": "Tetracarbonylnickel",
+          "why": "a volatile toxic nickel gas"
+        },
+        {
+          "t": "Violarite",
+          "why": "a nickel iron sulfide"
         }
       ],
       "exclude": [],
@@ -2164,6 +3048,18 @@
         {
           "t": "ci 77346",
           "why": "cobalt aluminum oxide pigment"
+        },
+        {
+          "t": "elgiloy",
+          "why": "a cobalt-nickel alloy"
+        },
+        {
+          "t": "mp35n",
+          "why": "a cobalt-based alloy"
+        },
+        {
+          "t": "phynox",
+          "why": "a cobalt-chromium alloy"
         }
       ],
       "exclude": [
@@ -2185,6 +3081,22 @@
         {
           "t": "gold vermeil",
           "why": "gold over silver"
+        },
+        {
+          "t": "Auric chloride",
+          "why": "Gold chemical compound"
+        },
+        {
+          "t": "Feuille d'or",
+          "why": "French term for gold leaf"
+        },
+        {
+          "t": "Foglia d'oro",
+          "why": "Italian term for gold leaf"
+        },
+        {
+          "t": "Hoja de oro",
+          "why": "Spanish term for gold leaf"
         }
       ],
       "exclude": [
@@ -2248,6 +3160,34 @@
         {
           "t": "framycetin",
           "why": "a closely related antibiotic"
+        },
+        {
+          "t": "amikacin sulfate",
+          "why": "an aminoglycoside derivative related to neomycin"
+        },
+        {
+          "t": "dibekacin sulfate",
+          "why": "an aminoglycoside derivative of kanamycin"
+        },
+        {
+          "t": "gentamicin sulfate",
+          "why": "another aminoglycoside often cross-reactive or mixed"
+        },
+        {
+          "t": "kanamycin sulfate",
+          "why": "an aminoglycoside structurally similar to neomycin"
+        },
+        {
+          "t": "netilmicin sulfate",
+          "why": "an aminoglycoside semisynthetic derivative"
+        },
+        {
+          "t": "sisomicin sulfate",
+          "why": "an aminoglycoside closely related to gentamicin"
+        },
+        {
+          "t": "tobramycin sulfate",
+          "why": "an aminoglycoside often confused with neomycin"
         }
       ],
       "exclude": [],
@@ -2271,6 +3211,50 @@
         {
           "t": "triple antibiotic",
           "why": "usually contains bacitracin"
+        },
+        {
+          "t": "Baciguent",
+          "why": "a brand of bacitracin antibiotic ointment"
+        },
+        {
+          "t": "Baciim",
+          "why": "a brand of injectable bacitracin"
+        },
+        {
+          "t": "bacitracina",
+          "why": "the Spanish, Portuguese, and Italian name for bacitracin"
+        },
+        {
+          "t": "bacitracine",
+          "why": "the French and Dutch name for bacitracin"
+        },
+        {
+          "t": "bacitracinum",
+          "why": "the pharmaceutical Latin name for bacitracin"
+        },
+        {
+          "t": "zinc bacitracinate",
+          "why": "an alternative name for the zinc salt of bacitracin"
+        },
+        {
+          "t": "бацитрацин",
+          "why": "the Russian name for bacitracin"
+        },
+        {
+          "t": "バシトラシン",
+          "why": "the Japanese name for bacitracin"
+        },
+        {
+          "t": "杆菌肽",
+          "why": "the simplified Chinese name for bacitracin"
+        },
+        {
+          "t": "桿菌肽",
+          "why": "the traditional Chinese name for bacitracin"
+        },
+        {
+          "t": "바시트라신",
+          "why": "the Korean name for bacitracin"
         }
       ],
       "exclude": [],
@@ -2295,6 +3279,102 @@
         {
           "t": "tetracaine",
           "why": "a numbing agent"
+        },
+        {
+          "t": "2-(diethylamino)-N-(2,6-dimethylphenyl)acetamide",
+          "why": "the chemical name for lidocaine"
+        },
+        {
+          "t": "articaine",
+          "why": "widely used in dentistry"
+        },
+        {
+          "t": "Articaine HCl",
+          "why": "the salt form of articaine"
+        },
+        {
+          "t": "bupivacaine",
+          "why": "a long-acting local anesthetic"
+        },
+        {
+          "t": "Bupivacaine HCl",
+          "why": "the salt form of bupivacaine"
+        },
+        {
+          "t": "chloroprocaine",
+          "why": "a rapid-onset ester anesthetic"
+        },
+        {
+          "t": "Chloroprocaine HCl",
+          "why": "the salt form of chloroprocaine"
+        },
+        {
+          "t": "Cocaine HCl",
+          "why": "the salt form of cocaine"
+        },
+        {
+          "t": "ethyl 4-aminobenzoate",
+          "why": "the chemical name for benzocaine"
+        },
+        {
+          "t": "Levobupivacaine",
+          "why": "an isomer of bupivacaine"
+        },
+        {
+          "t": "lidocaine",
+          "why": "a common local anesthetic agent"
+        },
+        {
+          "t": "Lidocaine HCl",
+          "why": "the salt form of lidocaine"
+        },
+        {
+          "t": "markaine",
+          "why": "a brand name for bupivacaine"
+        },
+        {
+          "t": "mepivacaine",
+          "why": "used for dental and medical numbing"
+        },
+        {
+          "t": "Mepivacaine HCl",
+          "why": "the salt form of mepivacaine"
+        },
+        {
+          "t": "novocaine",
+          "why": "a brand name for procaine"
+        },
+        {
+          "t": "numbing cream",
+          "why": "product type containing caine mix"
+        },
+        {
+          "t": "prilocaine",
+          "why": "a specific amide-type anesthetic"
+        },
+        {
+          "t": "Prilocaine HCl",
+          "why": "the salt form of prilocaine"
+        },
+        {
+          "t": "Procaine HCl",
+          "why": "the salt form of procaine"
+        },
+        {
+          "t": "ropivacaine",
+          "why": "a newer amide anesthetic agent"
+        },
+        {
+          "t": "Ropivacaine HCl",
+          "why": "the salt form of ropivacaine"
+        },
+        {
+          "t": "topical anesthetic",
+          "why": "indicates presence of numbing agents"
+        },
+        {
+          "t": "xylocaine",
+          "why": "a brand name for lidocaine"
         }
       ],
       "exclude": [],
@@ -2315,6 +3395,46 @@
         {
           "t": "peru balsam",
           "why": "balsam of Peru"
+        },
+        {
+          "t": "Balsamum peruvianum",
+          "why": "a Latin synonym for the plant"
+        },
+        {
+          "t": "Benzyl benzoate",
+          "why": "a common ester in the balsam"
+        },
+        {
+          "t": "Benzyl cinnamate",
+          "why": "a major component of Peru Balsam"
+        },
+        {
+          "t": "Cinnamic acid",
+          "why": "a key constituent found in it"
+        },
+        {
+          "t": "Inci: Myroxylon Balsamum Resin",
+          "why": "the INCI label for the resin"
+        },
+        {
+          "t": "Myroxylon",
+          "why": "the genus name of the tree"
+        },
+        {
+          "t": "Myroxylon balsamum",
+          "why": "the botanical name for the tree"
+        },
+        {
+          "t": "Pereirae",
+          "why": "part of the species epithet"
+        },
+        {
+          "t": "Peruvian balsam",
+          "why": "an alternative English name"
+        },
+        {
+          "t": "Tolu balsam",
+          "why": "a different tree, not Peru Balsam"
         }
       ],
       "exclude": [],
@@ -2355,6 +3475,66 @@
         {
           "t": "butylphenol formaldehyde resin",
           "why": "an adhesive resin in leather goods"
+        },
+        {
+          "t": "4-(1,1-dimethylethyl)phenol formaldehyde resin",
+          "why": "IUPAC name variant"
+        },
+        {
+          "t": "4-tert-Butylphenol formaldehyde",
+          "why": "partial name variant"
+        },
+        {
+          "t": "4-tert-Butylphenol-formaldehyde",
+          "why": "hyphenated positional name"
+        },
+        {
+          "t": "4-tert-Butylphenol-formaldehyde condensate",
+          "why": "positional condensate name"
+        },
+        {
+          "t": "Formaldehyde resin, p-tert-butylphenol",
+          "why": "inverted label syntax"
+        },
+        {
+          "t": "Formaldehyde, p-tert-butylphenol polymer",
+          "why": "chemical name of resin"
+        },
+        {
+          "t": "Formaldehyde-p-tert-butylphenol resin",
+          "why": "reversed word order"
+        },
+        {
+          "t": "p-Tert-butylphenol formaldehyde",
+          "why": "partial name often used"
+        },
+        {
+          "t": "P-tert-butylphenol-formaldehyde",
+          "why": "hyphenated name variant"
+        },
+        {
+          "t": "p-tert-Butylphenol-formaldehyde condensate",
+          "why": "reaction product name"
+        },
+        {
+          "t": "Poly(4-tert-butylphenol-co-formaldehyde)",
+          "why": "copolymer description"
+        },
+        {
+          "t": "Resin, p-tert-butylphenol-formaldehyde",
+          "why": "standard INCI-like format"
+        },
+        {
+          "t": "Resin, tert-butylphenol-formaldehyde",
+          "why": "label format variant"
+        },
+        {
+          "t": "Tert-butylphenol formaldehyde",
+          "why": "simplified name"
+        },
+        {
+          "t": "Tertbutylphenolformaldehyde resin",
+          "why": "concatenated name"
         }
       ],
       "exclude": [],
@@ -2370,6 +3550,50 @@
         {
           "t": "bisphenol a diglycidyl ether",
           "why": "the main epoxy resin allergen"
+        },
+        {
+          "t": "Devcon",
+          "why": "a major epoxy manufacturer"
+        },
+        {
+          "t": "DGEBA",
+          "why": "the acronym for DGEBA epoxy"
+        },
+        {
+          "t": "Diglycidyl Ether",
+          "why": "part of epoxy name"
+        },
+        {
+          "t": "diglycidyl ether of bisphenol A",
+          "why": "the primary epoxy resin monomer"
+        },
+        {
+          "t": "glycidyl ether",
+          "why": "an epoxy functional group"
+        },
+        {
+          "t": "JB Weld",
+          "why": "a popular epoxy product"
+        },
+        {
+          "t": "resorcinol diglycidyl ether",
+          "why": "a specific epoxy resin"
+        },
+        {
+          "t": "System Three",
+          "why": "a wood epoxy brand"
+        },
+        {
+          "t": "tetraglycidyl methylene dianiline",
+          "why": "a high-performance epoxy"
+        },
+        {
+          "t": "TGMDA",
+          "why": "the acronym for TGMDA epoxy"
+        },
+        {
+          "t": "West System",
+          "why": "a marine epoxy brand"
         }
       ],
       "exclude": [],
@@ -2402,6 +3626,50 @@
         {
           "t": "rubber",
           "why": "usually made with rubber chemicals like this"
+        },
+        {
+          "t": "Dipentamethylenethiuram tetrasulfide",
+          "why": "a complex thiuram sulfide"
+        },
+        {
+          "t": "Sodium diethyldithiocarbamate",
+          "why": "a soluble dithiocarbamate derivative"
+        },
+        {
+          "t": "Sodium dimethyldithiocarbamate",
+          "why": "a water-soluble dithiocarbamate salt"
+        },
+        {
+          "t": "Tetrabutylthiuram disulfide",
+          "why": "a butyl-based thiuram accelerator"
+        },
+        {
+          "t": "Tetraethylthiuram disulfide",
+          "why": "an ethyl-based thiuram accelerator"
+        },
+        {
+          "t": "Tetramethylthiuram disulfide",
+          "why": "a common rubber vulcanizer"
+        },
+        {
+          "t": "Thiram",
+          "why": "a fungicide and rubber chemical"
+        },
+        {
+          "t": "Zinc dibenzyldithiocarbamate",
+          "why": "a benzyl dithiocarbamate salt"
+        },
+        {
+          "t": "Zinc dimethyldithiocarbamate",
+          "why": "a key rubber accelerator"
+        },
+        {
+          "t": "Zinc isopropyldithiocarbamate",
+          "why": "an isopropyl dithiocarbamate salt"
+        },
+        {
+          "t": "Zinc tetrabutyldithiocarbamate",
+          "why": "a variant of zinc butyl dithiocarbamate"
         }
       ],
       "exclude": [],
@@ -2433,6 +3701,22 @@
         {
           "t": "black rubber",
           "why": "usually contains these chemicals"
+        },
+        {
+          "t": "antioxidant 4020",
+          "why": "a synonym for black rubber mix"
+        },
+        {
+          "t": "n,n'-di-sec-butyl-p-phenylenediamine",
+          "why": "a component of black rubber mix"
+        },
+        {
+          "t": "p-phenylenediamines",
+          "why": "the chemical class of the mix"
+        },
+        {
+          "t": "ppd derivatives",
+          "why": "chemicals found in the mix"
         }
       ],
       "exclude": [],
@@ -2465,6 +3749,10 @@
         {
           "t": "rubber",
           "why": "usually made with rubber chemicals like this"
+        },
+        {
+          "t": "Benzothiazole-2-thiol",
+          "why": "IUPAC name for Mercaptobenzothiazole"
         }
       ],
       "exclude": [],
@@ -2528,6 +3816,18 @@
         {
           "t": "iodochlorhydroxyquin",
           "why": "another name for clioquinol"
+        },
+        {
+          "t": "8-Hydroxyquinoline",
+          "why": "the primary allergen in mix"
+        },
+        {
+          "t": "Oxine",
+          "why": "a common synonym for 8-HQ"
+        },
+        {
+          "t": "Quinolin-8-ol",
+          "why": "IUPAC name for 8-HQ"
         }
       ],
       "exclude": [],
@@ -2547,6 +3847,38 @@
         {
           "t": "merthiolate",
           "why": "thimerosal"
+        },
+        {
+          "t": "ethylmercurithiosalicylic acid sodium salt",
+          "why": "a chemical name for thimerosal"
+        },
+        {
+          "t": "sodium 2-(ethylmercurithio)benzoate",
+          "why": "a chemical name for thimerosal"
+        },
+        {
+          "t": "sodium ethylmercurithiosalicylate",
+          "why": "a chemical name for thimerosal"
+        },
+        {
+          "t": "sodium o-(ethylmercurithio)benzoate",
+          "why": "a chemical name for thimerosal"
+        },
+        {
+          "t": "thimérosal",
+          "why": "a French name for thimerosal"
+        },
+        {
+          "t": "thiomersalum",
+          "why": "a Latin pharmaceutical name for thimerosal"
+        },
+        {
+          "t": "timerosal",
+          "why": "a Portuguese and Spanish name for thimerosal"
+        },
+        {
+          "t": "tiomersal",
+          "why": "a name for thimerosal in several languages"
         }
       ],
       "exclude": [],
@@ -2594,6 +3926,26 @@
         {
           "t": "cortisone",
           "why": "a related steroid in the same allergy group"
+        },
+        {
+          "t": "55560-96-8",
+          "why": "the CAS registry number for tixocortol pivalate"
+        },
+        {
+          "t": "Pivalone",
+          "why": "a nasal medication brand containing tixocortol pivalate"
+        },
+        {
+          "t": "Tixocortoli pivalas",
+          "why": "the pharmaceutical Latin name for tixocortol pivalate"
+        },
+        {
+          "t": "tixocortolo pivalato",
+          "why": "the Italian name for tixocortol pivalate"
+        },
+        {
+          "t": "Tixocortolpivalat",
+          "why": "the German name for tixocortol pivalate"
         }
       ],
       "exclude": [],
@@ -2624,6 +3976,26 @@
         {
           "t": "halcinonide",
           "why": "a related steroid in the same allergy group"
+        },
+        {
+          "t": "16α,17α-butylidene dioxy",
+          "why": "part of the IUPAC name"
+        },
+        {
+          "t": "entocort",
+          "why": "a brand name for oral budesonide"
+        },
+        {
+          "t": "pulmicort",
+          "why": "a common brand name for budesonide"
+        },
+        {
+          "t": "rhinocort",
+          "why": "a brand name for nasal budesonide"
+        },
+        {
+          "t": "symbicort",
+          "why": "a combination inhaler containing budesonide"
         }
       ],
       "exclude": [],
@@ -2647,6 +4019,62 @@
         {
           "t": "methylprednisolone aceponate",
           "why": "a related steroid in the same allergy group"
+        },
+        {
+          "t": "13609-67-1",
+          "why": "the CAS registry number for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "butirato de hidrocortisona",
+          "why": "a Spanish or Portuguese name for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "butyrate d’hydrocortisone",
+          "why": "the French name for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "cortisol 17-butyrate",
+          "why": "a chemical synonym for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "hydrocortisonbutyraat",
+          "why": "the Dutch name for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "Hydrocortisonbutyrat",
+          "why": "the German name for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "hydrocortisone 17-butanoate",
+          "why": "a chemical synonym for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "hydrokortisonbutyrat",
+          "why": "a Scandinavian name for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "idrocortisone butirrato",
+          "why": "the Italian name for hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "Laticort",
+          "why": "a medication brand containing hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "Locoid",
+          "why": "a medication brand containing hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "Locoid Crelo",
+          "why": "a topical emulsion containing hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "Locoid Lipocream",
+          "why": "a topical cream containing hydrocortisone-17-butyrate"
+        },
+        {
+          "t": "гидрокортизона бутират",
+          "why": "the Russian name for hydrocortisone-17-butyrate"
         }
       ],
       "exclude": [],
@@ -2676,6 +4104,94 @@
         {
           "t": "disperse yellow 3",
           "why": "a textile dye"
+        },
+        {
+          "t": "Colorantes dispersos",
+          "why": "Spanish and Portuguese for disperse dyes"
+        },
+        {
+          "t": "Coloranti dispersi",
+          "why": "Italian for disperse dyes"
+        },
+        {
+          "t": "Colorants dispersés",
+          "why": "French for disperse dyes"
+        },
+        {
+          "t": "Disperse Orange 1",
+          "why": "a disperse textile dye linked to contact allergy"
+        },
+        {
+          "t": "Disperse Orange 25",
+          "why": "a disperse dye used for synthetic textiles"
+        },
+        {
+          "t": "Disperse Orange 37",
+          "why": "a disperse textile dye linked to contact allergy"
+        },
+        {
+          "t": "Disperse Orange 76",
+          "why": "a disperse textile dye linked to contact allergy"
+        },
+        {
+          "t": "Disperse Red 1",
+          "why": "a disperse textile dye linked to contact allergy"
+        },
+        {
+          "t": "Disperse Red 11",
+          "why": "a disperse dye used for synthetic textiles"
+        },
+        {
+          "t": "Disperse Red 15",
+          "why": "a disperse dye used for synthetic textiles"
+        },
+        {
+          "t": "Disperse Red 17",
+          "why": "a disperse textile dye linked to contact allergy"
+        },
+        {
+          "t": "Disperse Red 60",
+          "why": "a disperse dye used for synthetic textiles"
+        },
+        {
+          "t": "Disperse Violet 1",
+          "why": "a disperse dye used for synthetic textiles"
+        },
+        {
+          "t": "Disperse Yellow 1",
+          "why": "a disperse textile dye linked to contact allergy"
+        },
+        {
+          "t": "Disperse Yellow 54",
+          "why": "a disperse dye used for synthetic textiles"
+        },
+        {
+          "t": "Disperse Yellow 7",
+          "why": "a disperse dye used for synthetic textiles"
+        },
+        {
+          "t": "Disperse Yellow 9",
+          "why": "a disperse textile dye linked to contact allergy"
+        },
+        {
+          "t": "Dispersiekleurstoffen",
+          "why": "Dutch for disperse dyes"
+        },
+        {
+          "t": "Dispersionsfarbstoff",
+          "why": "German for disperse dye"
+        },
+        {
+          "t": "Dispersionsfarbstoffe",
+          "why": "German for disperse dyes"
+        },
+        {
+          "t": "分散染料",
+          "why": "Chinese and Japanese for disperse dyes"
+        },
+        {
+          "t": "분산염료",
+          "why": "Korean for disperse dyes"
         }
       ],
       "exclude": [],
@@ -2725,6 +4241,106 @@
         {
           "t": "yarrow",
           "why": "a daisy-family plant"
+        },
+        {
+          "t": "Achillea millefolium",
+          "why": "yarrow, rich in sesquiterpene lactones"
+        },
+        {
+          "t": "Ambrosia artemisiifolia",
+          "why": "common ragweed, a major pollen source"
+        },
+        {
+          "t": "Arctium lappa",
+          "why": "burdock root, a daisy family herb"
+        },
+        {
+          "t": "Artemisia absinthium",
+          "why": "wormwood, a daisy family plant"
+        },
+        {
+          "t": "Artichoke leaf extract",
+          "why": "contains cynarin and other lactones"
+        },
+        {
+          "t": "Burdock root extract",
+          "why": "derived from Arctium lappa plants"
+        },
+        {
+          "t": "Calendula",
+          "why": "the common name for pot marigold"
+        },
+        {
+          "t": "Centaurea cyanus",
+          "why": "cornflower, a daisy family plant"
+        },
+        {
+          "t": "Chrysanthemum indicum",
+          "why": "a daisy family plant used in teas"
+        },
+        {
+          "t": "Chrysanthemum morifolium",
+          "why": "the common florist chrysanthemum species"
+        },
+        {
+          "t": "Cornflower water",
+          "why": "a cosmetic ingredient from Centaurea"
+        },
+        {
+          "t": "Dandelion root extract",
+          "why": "derived from Taraxacum officinale"
+        },
+        {
+          "t": "Dendranthema grandiflora",
+          "why": "a modern name for garden mums"
+        },
+        {
+          "t": "Leontodon hispidus",
+          "why": "rough hawkbit, a daisy relative"
+        },
+        {
+          "t": "Marigold flower extract",
+          "why": "contains thiophenes and lactones"
+        },
+        {
+          "t": "Matricaria chamomilla",
+          "why": "a botanical synonym for German chamomile"
+        },
+        {
+          "t": "Milk thistle extract",
+          "why": "derived from Silybum marianum"
+        },
+        {
+          "t": "Pot marigold",
+          "why": "another name for Calendula officinalis"
+        },
+        {
+          "t": "Ragweed extract",
+          "why": "used in some herbal supplements"
+        },
+        {
+          "t": "Rudbeckia hirta",
+          "why": "black-eyed susan, a daisy relative"
+        },
+        {
+          "t": "Silybum marianum",
+          "why": "milk thistle, a daisy family plant"
+        },
+        {
+          "t": "Tagetes erecta",
+          "why": "marigold, often cross-reactive"
+        },
+        {
+          "t": "Tanacetum vulgare",
+          "why": "the botanical name for tansy"
+        },
+        {
+          "t": "Taraxacum officinale",
+          "why": "dandelion, containing latex-like compounds"
+        },
+        {
+          "t": "Wormwood extract",
+          "why": "derived from Artemisia species"
         }
       ],
       "exclude": [],
