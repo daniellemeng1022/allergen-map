@@ -1,5 +1,5 @@
 {
-  "version": 2026110102,
+  "version": 2026110201,
   "updated": "2026-11-01",
   "note": "Seed map drafted by an AI agent (Claude) on 2026-10-05. Covers FDA Big 9, EU 14 food allergens, Japan's buckwheat, latex, common cosmetic allergens and the T.R.U.E. Test patch series. Needs founder review before it is relied on. Grow it with tools/build_map.py.",
   "allergens": {
@@ -344,6 +344,14 @@
           ]
         },
         {
+          "t": "latti",
+          "why": "Italian for milks",
+          "lang": [
+            "it",
+            "en"
+          ]
+        },
+        {
           "t": "maitojauhe",
           "why": "Finnish for milk powder",
           "lang": [
@@ -414,10 +422,24 @@
           ]
         },
         {
+          "t": "mleka",
+          "why": "Polish for milks",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
           "t": "mleko w proszku",
           "why": "Polish for milk powder",
           "lang": [
             "pl"
+          ]
+        },
+        {
+          "t": "mléka",
+          "why": "Czech for milks",
+          "lang": [
+            "cs"
           ]
         },
         {
@@ -460,6 +482,13 @@
           "why": "Czech for powdered milk",
           "lang": [
             "cs"
+          ]
+        },
+        {
+          "t": "tejek",
+          "why": "Hungarian for milks",
+          "lang": [
+            "hu"
           ]
         },
         {
@@ -561,6 +590,64 @@
           ]
         },
         {
+          "t": "melk",
+          "why": "Dutch for milk",
+          "lang": [
+            "nl",
+            "no"
+          ]
+        },
+        {
+          "t": "tej",
+          "why": "Hungarian for milk",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
+          "t": "lapte",
+          "why": "Romanian for milk",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
+          "t": "latte",
+          "why": "Italian for milk",
+          "lang": [
+            "it",
+            "en"
+          ]
+        },
+        {
+          "t": "maito",
+          "why": "Finnish for milk",
+          "lang": [
+            "fi"
+          ]
+        },
+        {
+          "t": "mjölk",
+          "why": "Swedish for milk",
+          "lang": [
+            "sv"
+          ]
+        },
+        {
+          "t": "mleko",
+          "why": "Polish for milk",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
+          "t": "mléko",
+          "why": "Czech for milk",
+          "lang": [
+            "cs"
+          ]
+        },
+        {
           "t": "γάλα",
           "why": "Greek for milk",
           "lang": [
@@ -617,6 +704,13 @@
           ]
         },
         {
+          "t": "mjølk",
+          "why": "Norwegian Nynorsk for milk",
+          "lang": [
+            "no"
+          ]
+        },
+        {
           "t": "mlekiem",
           "why": "Polish for milk in ingredient phrases",
           "lang": [
@@ -635,6 +729,13 @@
           "why": "Turkish for milk powder",
           "lang": [
             "tr"
+          ]
+        },
+        {
+          "t": "tejet",
+          "why": "Hungarian for milk in allergen statements",
+          "lang": [
+            "hu"
           ]
         },
         {
@@ -1300,6 +1401,71 @@
           "why": "a custard made with egg yolks"
         },
         {
+          "t": "Ei",
+          "why": "German for egg",
+          "lang": [
+            "de",
+            "nl"
+          ]
+        },
+        {
+          "t": "Eier",
+          "why": "German plural for egg",
+          "lang": [
+            "de"
+          ]
+        },
+        {
+          "t": "jaja",
+          "why": "Polish plural for egg",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
+          "t": "muna",
+          "why": "Finnish for egg",
+          "lang": [
+            "fi",
+            "et"
+          ]
+        },
+        {
+          "t": "ouă",
+          "why": "Romanian plural for egg",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
+          "t": "uova",
+          "why": "Italian plural for egg",
+          "lang": [
+            "it"
+          ]
+        },
+        {
+          "t": "uovo",
+          "why": "Italian for egg",
+          "lang": [
+            "it"
+          ]
+        },
+        {
+          "t": "ägg",
+          "why": "Swedish for egg",
+          "lang": [
+            "sv"
+          ]
+        },
+        {
+          "t": "æg",
+          "why": "Danish for egg",
+          "lang": [
+            "da"
+          ]
+        },
+        {
           "t": "albume d’uovo",
           "why": "Italian for egg white",
           "lang": [
@@ -1377,6 +1543,13 @@
           ]
         },
         {
+          "t": "jajko",
+          "why": "Polish for egg",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
           "t": "jajko w proszku",
           "why": "Polish for egg powder",
           "lang": [
@@ -1405,10 +1578,24 @@
           ]
         },
         {
+          "t": "munat",
+          "why": "Finnish plural for egg",
+          "lang": [
+            "fi"
+          ]
+        },
+        {
           "t": "ouă praf",
           "why": "Romanian for egg powder",
           "lang": [
             "ro"
+          ]
+        },
+        {
+          "t": "tojás",
+          "why": "Hungarian for egg",
+          "lang": [
+            "hu"
           ]
         },
         {
@@ -1463,6 +1650,13 @@
         {
           "t": "vaječný žloutek",
           "why": "Czech for egg yolk",
+          "lang": [
+            "cs"
+          ]
+        },
+        {
+          "t": "vejce",
+          "why": "Czech for egg",
           "lang": [
             "cs"
           ]
@@ -1713,10 +1907,24 @@
           ]
         },
         {
+          "t": "ou",
+          "why": "Romanian for egg",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
           "t": "albume",
           "why": "Italian for egg white",
           "lang": [
             "it"
+          ]
+        },
+        {
+          "t": "bílek",
+          "why": "Czech for egg white",
+          "lang": [
+            "cs"
           ]
         },
         {
@@ -1755,6 +1963,13 @@
           ]
         },
         {
+          "t": "ouăle",
+          "why": "Romanian for the eggs",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
           "t": "ovoproductos",
           "why": "Spanish for egg products",
           "lang": [
@@ -1787,6 +2002,13 @@
           "why": "Italian for egg yolk",
           "lang": [
             "it"
+          ]
+        },
+        {
+          "t": "vajec",
+          "why": "Czech for eggs, in ingredient lists",
+          "lang": [
+            "cs"
           ]
         },
         {
@@ -2133,6 +2355,13 @@
           "why": "Korean for peanut",
           "lang": [
             "ko"
+          ]
+        },
+        {
+          "t": "alune",
+          "why": "Romanian for peanut",
+          "lang": [
+            "ro"
           ]
         },
         {
@@ -3104,6 +3333,35 @@
           "why": "botanical name for pili"
         },
         {
+          "t": "dió",
+          "why": "Hungarian for tree nuts",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
+          "t": "kaju",
+          "why": "Turkish for tree nuts",
+          "lang": [
+            "tr"
+          ]
+        },
+        {
+          "t": "noci",
+          "why": "Italian for tree nuts",
+          "lang": [
+            "it",
+            "ro"
+          ]
+        },
+        {
+          "t": "nuci",
+          "why": "Romanian for tree nuts",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
           "t": "almendras",
           "why": "Spanish for tree nuts",
           "lang": [
@@ -3167,6 +3425,13 @@
           ]
         },
         {
+          "t": "badem",
+          "why": "Turkish for tree nuts",
+          "lang": [
+            "tr"
+          ]
+        },
+        {
           "t": "Cashewkerne",
           "why": "German for tree nuts",
           "lang": [
@@ -3192,6 +3457,13 @@
           "why": "Portuguese for tree nuts",
           "lang": [
             "pt"
+          ]
+        },
+        {
+          "t": "ceviz",
+          "why": "Turkish for tree nuts",
+          "lang": [
+            "tr"
           ]
         },
         {
@@ -3347,6 +3619,20 @@
           "why": "French for tree nuts",
           "lang": [
             "fr"
+          ]
+        },
+        {
+          "t": "noten",
+          "why": "Dutch for tree nuts",
+          "lang": [
+            "nl"
+          ]
+        },
+        {
+          "t": "nozes",
+          "why": "Portuguese for tree nuts",
+          "lang": [
+            "pt"
           ]
         },
         {
@@ -3746,6 +4032,13 @@
           "why": "Spanish for hazelnut",
           "lang": [
             "es"
+          ]
+        },
+        {
+          "t": "avelã",
+          "why": "Portuguese for hazelnut",
+          "lang": [
+            "pt"
           ]
         },
         {
@@ -4912,6 +5205,41 @@
           ]
         },
         {
+          "t": "búza",
+          "why": "Hungarian for wheat",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
+          "t": "grâu",
+          "why": "Romanian for wheat",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
+          "t": "vete",
+          "why": "Swedish for wheat",
+          "lang": [
+            "sv"
+          ]
+        },
+        {
+          "t": "hvede",
+          "why": "Danish for wheat",
+          "lang": [
+            "da"
+          ]
+        },
+        {
+          "t": "hvete",
+          "why": "Norwegian for wheat",
+          "lang": [
+            "no"
+          ]
+        },
+        {
           "t": "pszenica",
           "why": "Polish for wheat",
           "lang": [
@@ -4923,6 +5251,20 @@
           "why": "Czech for wheat",
           "lang": [
             "cs"
+          ]
+        },
+        {
+          "t": "tarwe",
+          "why": "Dutch for wheat",
+          "lang": [
+            "nl"
+          ]
+        },
+        {
+          "t": "vehnä",
+          "why": "Finnish for wheat",
+          "lang": [
+            "fi"
           ]
         },
         {
@@ -4998,6 +5340,13 @@
         {
           "t": "búzából",
           "why": "Hungarian for from wheat",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
+          "t": "búzát",
+          "why": "Hungarian for wheat, in allergen statements",
           "lang": [
             "hu"
           ]
@@ -5998,6 +6347,13 @@
           ]
         },
         {
+          "t": "gerst",
+          "why": "Dutch for barley",
+          "lang": [
+            "nl"
+          ]
+        },
+        {
           "t": "Gerste",
           "why": "German for barley",
           "lang": [
@@ -6033,6 +6389,20 @@
           ]
         },
         {
+          "t": "hvede",
+          "why": "Danish for wheat",
+          "lang": [
+            "da"
+          ]
+        },
+        {
+          "t": "hvete",
+          "why": "Norwegian for wheat",
+          "lang": [
+            "no"
+          ]
+        },
+        {
           "t": "ječmen",
           "why": "Czech for barley",
           "lang": [
@@ -6061,6 +6431,20 @@
           ]
         },
         {
+          "t": "malta",
+          "why": "Spanish for malt",
+          "lang": [
+            "es"
+          ]
+        },
+        {
+          "t": "malte",
+          "why": "Portuguese for malt",
+          "lang": [
+            "pt"
+          ]
+        },
+        {
           "t": "pszenica",
           "why": "Polish for wheat",
           "lang": [
@@ -6086,6 +6470,13 @@
           "why": "Czech for wheat, modifying flour",
           "lang": [
             "cs"
+          ]
+        },
+        {
+          "t": "rogge",
+          "why": "Dutch for rye",
+          "lang": [
+            "nl"
           ]
         },
         {
@@ -6124,6 +6515,13 @@
           ]
         },
         {
+          "t": "sikér",
+          "why": "Hungarian for gluten",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
           "t": "speltmel",
           "why": "Danish for spelt flour",
           "lang": [
@@ -6132,10 +6530,32 @@
           ]
         },
         {
+          "t": "tarwe",
+          "why": "Dutch for wheat",
+          "lang": [
+            "nl"
+          ]
+        },
+        {
+          "t": "trigo",
+          "why": "Spanish for wheat",
+          "lang": [
+            "es",
+            "pt"
+          ]
+        },
+        {
           "t": "tönkölybúza",
           "why": "Hungarian for spelt",
           "lang": [
             "hu"
+          ]
+        },
+        {
+          "t": "vehnä",
+          "why": "Finnish for wheat",
+          "lang": [
+            "fi"
           ]
         },
         {
@@ -7327,6 +7747,35 @@
           ]
         },
         {
+          "t": "soia",
+          "why": "Romanian for soy",
+          "lang": [
+            "ro",
+            "it"
+          ]
+        },
+        {
+          "t": "sója",
+          "why": "Czech for soy",
+          "lang": [
+            "cs"
+          ]
+        },
+        {
+          "t": "soija",
+          "why": "Finnish for soy",
+          "lang": [
+            "fi"
+          ]
+        },
+        {
+          "t": "szója",
+          "why": "Hungarian for soy",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
           "t": "σόγια",
           "why": "Greek for soy",
           "lang": [
@@ -7977,6 +8426,44 @@
           "why": "young immature fish mixture"
         },
         {
+          "t": "fisk",
+          "why": "Swedish for fish",
+          "lang": [
+            "sv",
+            "da",
+            "no"
+          ]
+        },
+        {
+          "t": "kala",
+          "why": "Finnish for fish",
+          "lang": [
+            "fi",
+            "et"
+          ]
+        },
+        {
+          "t": "ryba",
+          "why": "Polish for fish",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
+          "t": "ryby",
+          "why": "Polish plural for fish",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
+          "t": "balık",
+          "why": "Turkish for fish",
+          "lang": [
+            "tr"
+          ]
+        },
+        {
           "t": "balık tozu",
           "why": "Turkish for fish powder",
           "lang": [
@@ -8026,6 +8513,13 @@
           ]
         },
         {
+          "t": "halak",
+          "why": "Hungarian plural for fish",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
           "t": "halpor",
           "why": "Hungarian for fish powder",
           "lang": [
@@ -8037,6 +8531,20 @@
           "why": "Finnish for fish powder",
           "lang": [
             "fi"
+          ]
+        },
+        {
+          "t": "kalat",
+          "why": "Finnish plural for fish",
+          "lang": [
+            "fi"
+          ]
+        },
+        {
+          "t": "peixe",
+          "why": "Portuguese for fish",
+          "lang": [
+            "pt"
           ]
         },
         {
@@ -8054,6 +8562,13 @@
           ]
         },
         {
+          "t": "pesce",
+          "why": "Italian for fish",
+          "lang": [
+            "it"
+          ]
+        },
+        {
           "t": "pesce in polvere",
           "why": "Italian for fish powder",
           "lang": [
@@ -8061,8 +8576,29 @@
           ]
         },
         {
+          "t": "pesci",
+          "why": "Italian plural for fish",
+          "lang": [
+            "it"
+          ]
+        },
+        {
+          "t": "pește",
+          "why": "Romanian for fish",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
           "t": "pește pudră",
           "why": "Romanian for fish powder",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
+          "t": "pești",
+          "why": "Romanian plural for fish",
           "lang": [
             "ro"
           ]
@@ -8229,6 +8765,20 @@
           ]
         },
         {
+          "t": "vis",
+          "why": "Dutch for fish",
+          "lang": [
+            "nl"
+          ]
+        },
+        {
+          "t": "hal",
+          "why": "Hungarian for fish",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
           "t": "balığı",
           "why": "Turkish for fish, in ingredient lists",
           "lang": [
@@ -8328,6 +8878,13 @@
           ]
         },
         {
+          "t": "halat",
+          "why": "Hungarian for fish, in ingredient lists",
+          "lang": [
+            "hu"
+          ]
+        },
+        {
           "t": "halliszt",
           "why": "Hungarian for fish meal",
           "lang": [
@@ -8346,6 +8903,13 @@
           "why": "Hungarian for fish gelatin",
           "lang": [
             "hu"
+          ]
+        },
+        {
+          "t": "kalaa",
+          "why": "Finnish for fish, in ingredient lists",
+          "lang": [
+            "fi"
           ]
         },
         {
@@ -8370,6 +8934,13 @@
           ]
         },
         {
+          "t": "peces",
+          "why": "Spanish for fish, plural",
+          "lang": [
+            "es"
+          ]
+        },
+        {
           "t": "peștele",
           "why": "Romanian for the fish",
           "lang": [
@@ -8381,6 +8952,27 @@
           "why": "Romanian for of the fish",
           "lang": [
             "ro"
+          ]
+        },
+        {
+          "t": "rybna",
+          "why": "Polish for fish-derived",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
+          "t": "rybne",
+          "why": "Polish for fish-derived",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
+          "t": "rybny",
+          "why": "Polish for fish-derived",
+          "lang": [
+            "pl"
           ]
         },
         {
@@ -9120,6 +9712,13 @@
           ]
         },
         {
+          "t": "korýš",
+          "why": "Czech for shellfish",
+          "lang": [
+            "cs"
+          ]
+        },
+        {
           "t": "korýši",
           "why": "Czech plural for shellfish",
           "lang": [
@@ -9211,6 +9810,18 @@
           ]
         },
         {
+          "t": "krab",
+          "why": "Dutch for shellfish",
+          "lang": [
+            "nl",
+            "pl",
+            "cs",
+            "da",
+            "sv",
+            "no"
+          ]
+        },
+        {
           "t": "aragosta",
           "why": "Italian for shellfish",
           "lang": [
@@ -9243,6 +9854,13 @@
           "why": "Spanish for shellfish",
           "lang": [
             "es"
+          ]
+        },
+        {
+          "t": "crabe",
+          "why": "French for shellfish",
+          "lang": [
+            "fr"
           ]
         },
         {
@@ -9348,6 +9966,27 @@
           "why": "Spanish for shellfish",
           "lang": [
             "es"
+          ]
+        },
+        {
+          "t": "rejer",
+          "why": "Danish for shellfish",
+          "lang": [
+            "da"
+          ]
+        },
+        {
+          "t": "reker",
+          "why": "Norwegian for shellfish",
+          "lang": [
+            "no"
+          ]
+        },
+        {
+          "t": "räkor",
+          "why": "Swedish for shellfish",
+          "lang": [
+            "sv"
           ]
         },
         {
@@ -10682,6 +11321,21 @@
           ]
         },
         {
+          "t": "sezam",
+          "why": "Polish for sesame",
+          "lang": [
+            "pl",
+            "cs"
+          ]
+        },
+        {
+          "t": "susam",
+          "why": "Turkish for sesame",
+          "lang": [
+            "tr"
+          ]
+        },
+        {
           "t": "szezám",
           "why": "Hungarian for sesame",
           "lang": [
@@ -11004,6 +11658,13 @@
           "why": "a brand of English mustard"
         },
         {
+          "t": "Senf",
+          "why": "German for mustard",
+          "lang": [
+            "de"
+          ]
+        },
+        {
           "t": "gorczyca",
           "why": "Polish for mustard",
           "lang": [
@@ -11130,6 +11791,13 @@
           ]
         },
         {
+          "t": "senap",
+          "why": "Swedish for mustard",
+          "lang": [
+            "sv"
+          ]
+        },
+        {
           "t": "senape",
           "why": "Italian for mustard",
           "lang": [
@@ -11162,6 +11830,13 @@
           "why": "Swedish for mustard powder",
           "lang": [
             "sv"
+          ]
+        },
+        {
+          "t": "Senfe",
+          "why": "German plural for mustard",
+          "lang": [
+            "de"
           ]
         },
         {
@@ -11875,6 +12550,13 @@
           ]
         },
         {
+          "t": "gryka",
+          "why": "Polish for buckwheat",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
           "t": "hajdinaliszt",
           "why": "Hungarian for buckwheat flour",
           "lang": [
@@ -12047,6 +12729,13 @@
           "why": "German for buckwheat groats",
           "lang": [
             "de"
+          ]
+        },
+        {
+          "t": "gryki",
+          "why": "Polish for buckwheat in ingredient lists",
+          "lang": [
+            "pl"
           ]
         },
         {
@@ -14901,6 +15590,14 @@
           ]
         },
         {
+          "t": "homar",
+          "why": "Polish for lobster",
+          "lang": [
+            "pl",
+            "ro"
+          ]
+        },
+        {
           "t": "homard",
           "why": "French for lobster",
           "lang": [
@@ -14926,6 +15623,13 @@
           "why": "Polish for lobsters",
           "lang": [
             "pl"
+          ]
+        },
+        {
+          "t": "homár",
+          "why": "Hungarian for lobster",
+          "lang": [
+            "hu"
           ]
         },
         {
@@ -14972,6 +15676,13 @@
           ]
         },
         {
+          "t": "humři",
+          "why": "Czech for lobsters",
+          "lang": [
+            "cs"
+          ]
+        },
+        {
           "t": "karides",
           "why": "Turkish for shrimp",
           "lang": [
@@ -14997,6 +15708,13 @@
           "why": "Finnish for shrimp",
           "lang": [
             "fi"
+          ]
+        },
+        {
+          "t": "korýš",
+          "why": "Czech for crustacean",
+          "lang": [
+            "cs"
           ]
         },
         {
@@ -15119,8 +15837,22 @@
           ]
         },
         {
+          "t": "rejer",
+          "why": "Danish for shrimp",
+          "lang": [
+            "da"
+          ]
+        },
+        {
           "t": "rekepasta",
           "why": "Norwegian for shrimp paste",
+          "lang": [
+            "no"
+          ]
+        },
+        {
+          "t": "reker",
+          "why": "Norwegian for shrimp",
           "lang": [
             "no"
           ]
@@ -15137,6 +15869,13 @@
           "why": "Hungarian for crustaceans",
           "lang": [
             "hu"
+          ]
+        },
+        {
+          "t": "räkor",
+          "why": "Swedish for shrimp",
+          "lang": [
+            "sv"
           ]
         },
         {
@@ -15874,10 +16613,38 @@
           ]
         },
         {
+          "t": "małż",
+          "why": "Polish for edible bivalve",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
+          "t": "melc",
+          "why": "Romanian for edible snail",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
+          "t": "moule",
+          "why": "French for edible mussel",
+          "lang": [
+            "fr"
+          ]
+        },
+        {
           "t": "Muschelpulver",
           "why": "German for shellfish powder",
           "lang": [
             "de"
+          ]
+        },
+        {
+          "t": "slak",
+          "why": "Dutch for edible snail",
+          "lang": [
+            "nl"
           ]
         },
         {
@@ -15934,6 +16701,27 @@
           "why": "Portuguese plural for edible snails",
           "lang": [
             "pt"
+          ]
+        },
+        {
+          "t": "cozza",
+          "why": "Italian for edible mussel",
+          "lang": [
+            "it"
+          ]
+        },
+        {
+          "t": "cozze",
+          "why": "Italian plural for edible mussels",
+          "lang": [
+            "it"
+          ]
+        },
+        {
+          "t": "csiga",
+          "why": "Hungarian for edible snail",
+          "lang": [
+            "hu"
           ]
         },
         {
@@ -16084,6 +16872,13 @@
           ]
         },
         {
+          "t": "małże",
+          "why": "Polish plural for edible bivalves",
+          "lang": [
+            "pl"
+          ]
+        },
+        {
           "t": "mejillones",
           "why": "Spanish plural for edible mussels",
           "lang": [
@@ -16098,6 +16893,13 @@
           ]
         },
         {
+          "t": "melci",
+          "why": "Romanian plural for edible snails",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
           "t": "mexilhão",
           "why": "Portuguese for edible mussel",
           "lang": [
@@ -16109,6 +16911,27 @@
           "why": "Portuguese plural for edible mussels",
           "lang": [
             "pt"
+          ]
+        },
+        {
+          "t": "midie",
+          "why": "Romanian for edible mussel",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
+          "t": "midii",
+          "why": "Romanian plural for edible mussels",
+          "lang": [
+            "ro"
+          ]
+        },
+        {
+          "t": "midye",
+          "why": "Turkish for edible mussel",
+          "lang": [
+            "tr"
           ]
         },
         {
@@ -16286,6 +17109,13 @@
           "why": "Czech plural for edible mussels",
           "lang": [
             "cs"
+          ]
+        },
+        {
+          "t": "snegl",
+          "why": "Danish for edible snail",
+          "lang": [
+            "da"
           ]
         },
         {
@@ -16694,6 +17524,14 @@
           "why": "Dutch for oysters",
           "lang": [
             "nl"
+          ]
+        },
+        {
+          "t": "ostra",
+          "why": "Spanish for oyster",
+          "lang": [
+            "es",
+            "pt"
           ]
         },
         {
@@ -17745,6 +18583,14 @@
           ]
         },
         {
+          "t": "celer",
+          "why": "Czech for celery",
+          "lang": [
+            "cs",
+            "pl"
+          ]
+        },
+        {
           "t": "kereviz",
           "why": "Turkish for celery",
           "lang": [
@@ -17847,6 +18693,13 @@
           "why": "Persian for celery",
           "lang": [
             "fa"
+          ]
+        },
+        {
+          "t": "aipos",
+          "why": "Portuguese for celery, plural",
+          "lang": [
+            "pt"
           ]
         },
         {
@@ -17980,6 +18833,13 @@
           "why": "Dutch for celery salt",
           "lang": [
             "nl"
+          ]
+        },
+        {
+          "t": "seler",
+          "why": "Polish for celery",
+          "lang": [
+            "pl"
           ]
         },
         {
@@ -18423,6 +19283,13 @@
           "why": "Czech for lupin",
           "lang": [
             "cs"
+          ]
+        },
+        {
+          "t": "łubin",
+          "why": "Polish for lupin",
+          "lang": [
+            "pl"
           ]
         },
         {
@@ -19272,6 +20139,13 @@
           ]
         },
         {
+          "t": "nikel",
+          "why": "Turkish for nickel",
+          "lang": [
+            "tr"
+          ]
+        },
+        {
           "t": "nikiel",
           "why": "Polish for nickel",
           "lang": [
@@ -19337,6 +20211,14 @@
           "lang": [
             "da",
             "no"
+          ]
+        },
+        {
+          "t": "niklu",
+          "why": "Polish for nickel in compound names",
+          "lang": [
+            "pl",
+            "cs"
           ]
         },
         {
